@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Aditya A. Mote
 # Program to print largest and smallest element in an array
 
 
