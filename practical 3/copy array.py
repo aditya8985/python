@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Aditya A. Mote
 # Copy all elements of one array into another
 
 l1=eval(input("Enter a list: "))
