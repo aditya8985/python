@@ -1,4 +1,4 @@
-# Author: Riddhish V. Lichade
+# Author: Aditya A. Mote
 # Program to print array elements in reverse order
 
 l=eval(input("Enter a list: "))
